@@ -3536,7 +3536,7 @@ const defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: "http://www.pdf995.com/samples/pdf.pdf",
+    value: "result.pdf",
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
